@@ -1,0 +1,341 @@
+{
+    "gift_cards": [
+        {
+            "id": 1,
+            "name": "Amazon.it",
+            "price": {
+                "currency": "EUR",
+                "amount": [
+                    5.00,
+                    10.00,
+                    25.00,
+                    50.00  
+                ]
+            },
+            "description": "Amazon è il più celebre sito di e-commerce al mondo. Su Amazon.it è possibile trovare un’ampia scelta di articoli a piccoli prezzi! La sua offerta comprende prodotti nuovi o usati quali: libri, CD, DVD, software, videogiochi, elettronica di consumo.",
+            "img_url": "https://eurob2b.amilon.eu/B2BFiles/products/d62e6fc7-736b-4d67-8a96-8e726ac839ea/logo/amazon_fp01.png"
+        },
+        {
+            "id": 2,
+            "name": "Airbnb",
+            "price": {
+                "currency": "EUR",
+                "amount": [
+                    50.00,
+                    100.00  
+                ]
+            },
+            "description": "Regala Airbnb. Alloggi unici e attività fantastiche in tutto il mondo.",
+            "img_url": "https://eurob2b.amilon.eu/b2bfiles/products/f4849030-9b39-42c2-96e6-60d99f25db0a/logo/c7100ded33b041059982873d64676578.png"
+        },
+        {
+            "id": 3,
+            "name": "Asos",
+            "price": {
+                "currency": "EUR",
+                "amount": [
+                    10.00,
+                    25.00,
+                    50.00  
+                ]
+            },
+            "description": "ASOS propone oltre 85.000 prodotti di moda, cosmetica e articoli regalo a marchio proprio e di altri brand. ASOS offre un'esperienza multi-piattaforma unica amata dai 19,2 milioni di utenti attivi in 200 mercati.",
+            "img_url": "https://eurob2b.amilon.eu/b2bfiles/retailers/6a76fa0e-3431-414e-9f8c-231b38a5331c/logo/1c9d2c4714424f2b99a7c52c0fd317fb.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Bennet",
+            "price": {
+                "currency": "EUR",
+                "amount": [
+                    10.00,
+                    25.00,
+                    50.00  
+                ]
+            },
+            "description": "Bennet nasce nei primi anni 60 e da allora la sua espansione è stata continua, trasformandola nel corso degli ultimi 60 anni in leader nel mercato degli ipermercati e dei centri commerciali, con sedi in tutto il Nord Italia.",
+            "img_url": "https://eurob2b.amilon.eu/b2bfiles/retailers/f86625b4-bc74-46d9-8fc7-9a4f9b045787/logo/9665b479327148a0917dc6366316a01f.png"
+        },
+        {
+            "id": 5,
+            "name": "Carrefour",
+            "price": {
+                "currency": "EUR",
+                "amount": [
+                    5.00,
+                    10.00,
+                    25.00,
+                    50.00  
+                ]
+            },
+            "description": "La Gift Card Carrefour è un buono di acquisto prepagato spendibile su carrefour.it e nei punti di vendita aderenti all'iniziativa, fino all'esaurimento del credito. Sono esclusi dai beni acquistabili con la Gift Card farmaci da banco, carburanti e tutte le Gift Card presenti nei punti vendita. Non è nominativa e non è ammesso rimborso in caso di smarrimento o furto. Non è ricaricabile, non è convertibile in denaro e non dà diritto a resto. Punti di vendita aderenti su carrefour.it/giftcard",
+            "img_url": "https://eurob2b.amilon.eu/B2BFiles/retailers/f3a00758-aa04-46eb-a1cc-a790aa973539/img_f3a00758-aa04-46eb-a1cc-a790aa973539.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Decathlon",
+            "price": {
+                "currency": "EUR",
+                "amount": [
+                    5.00,
+                    10.00,
+                    25.00,
+                    50.00  
+                ]
+            },
+            "description": "Decathlon è l’azienda leader in Europa nella creazione, produzione e distribuzione di prodotti e tecnologie sportivi.",
+            "img_url": "https://eurob2b.amilon.eu/B2BFiles/products/d7eaeb76-1bb3-43ab-91c4-af7114bcee64/logo/img_b22f55a4-68a5-4834-b1e8-91f3cedc37c1.png"
+        },
+        {
+            "id": 7,
+            "name": "Coin",
+            "price": {
+                "currency": "EUR",
+                "amount": [
+                    5.00,
+                    10.00,
+                    25.00,
+                    50.00  
+                ]
+            },
+            "description": "Coin è il department store italiano, dedicato al mondo dell'abbigliamento, dell'home decoration, accessori e bellezza.",
+            "img_url": "https://eurob2b.amilon.eu/B2BFiles/retailers/22012cb9-5d68-4997-ad3a-e020184e0f94/img_22012cb9-5d68-4997-ad3a-e020184e0f94.png"
+        },
+        {
+            "id": 8,
+            "name": "Deliveroo",
+            "price": {
+                "currency": "EUR",
+                "amount": [
+                    5.00,
+                    10.00,
+                    25.00,
+                    50.00  
+                ]
+            },
+            "description": "Scarica l'app Deliveroo e crea il tuo account. Entra nella sezione Voucher e carica il tuo credito inserendo il codice che hai ricevuto nello spazio promocode. Il codice è spendibile su più ordini, non è trasferibile, è personale e non è cumulabile con altre promo.",
+            "img_url": "https://eurob2b.amilon.eu/b2bfiles/retailers/188b4414-c4bf-400b-833f-c922af2ffb2a/logo/e75984c503754a539ae5202d8c99cc52.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Foot Locker",
+            "price": {
+                "currency": "EUR",
+                "amount": [
+                    25.00,
+                    50.00  
+                ]
+            },
+            "description": "Foot Locker è il leader mondiale nella vendita di scarpe e abbigliamento sportivo.",
+            "img_url": "https://eurob2b.amilon.eu/B2BFiles/products/518d626f-61a1-4ed5-982a-c9004d62c619/logo/img_c9681df9-45aa-4b49-9e04-b3a8d4c7eb08.png"
+        },
+        {
+            "id": 10,
+            "name": "GameStop",
+            "price": {
+                "currency": "EUR",
+                "amount": [
+                    10.00,
+                    25.00,
+                    50.00  
+                ]
+            },
+            "description": "GameStop è la più importante catena mondiale specializzata nella vendita del videogioco, con più di 6000 negozi al mondo e più di 400 solo in Italia.",
+            "img_url": "https://eurob2b.amilon.eu/B2BFiles/products/952634e1-4657-4af7-8ef0-be3de07f663a/logo/img_032d014f-5f93-4650-92f5-72b25c842c1a.png"
+        },
+        {
+            "id": 11,
+            "name": "Douglas",
+            "price": {
+                "currency": "EUR",
+                "amount": [
+                    10.00,
+                    25.00,
+                    50.00  
+                ]
+            },
+            "description": "Nelle profumerie Douglas potrai trovare i Brand più prestigiosi del mondo della Profumeria e servizi di bellezza esclusivi per vivere una Beauty Experience unica e indimenticabile.",
+            "img_url": "https://eurob2b.amilon.eu/B2BFiles/retailers/b3065480-18d5-43ba-b6c4-a0c68a96895c/img_b3065480-18d5-43ba-b6c4-a0c68a96895c_1.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Esselunga",
+            "price": {
+                "currency": "EUR",
+                "amount": [
+                    10.00,
+                    25.00,
+                    50.00  
+                ]
+            },
+            "description": "La Gift Card Esselunga è utilizzabile per pagare la spesa in tutti i negozi Esselunga, presso i Bar Atlantic®, le Profumerie EsserBella® e per i tuoi acquisti online su esselunga.it e ebprofumerie.it.",
+            "img_url": "https://eurob2b.amilon.eu/b2bfiles/products/8c4002e8-23a0-43bd-8b30-aec4bb185ab6/logo/72dd2ca2a27d45e5b1b067e01d09c656.png"
+        },
+        {
+            "id": 13,
+            "name": "Guess",
+            "price": {
+                "currency": "EUR",
+                "amount": [
+                    10.00,
+                    25.00,
+                    50.00  
+                ]
+            },
+            "description": "GUESS è uno dei marchi più riconosciuti a livello globale, con uno stile che affascina tutto il mondo per l’abbigliamento e gli accessori. Fondata nel 1981, GUESS è il simbolo di uno stile di vita sexy, giovane e avventuroso.",
+            "img_url": "https://eurob2b.amilon.eu/B2BFiles/products/b2a89b29-4e30-40ca-b52a-3bf42406b3ab/logo/img_47583150-3e18-43ff-8914-d119ecc5c9d5.png"
+        },
+        {
+            "id": 14,
+            "name": "H&M",
+            "price": {
+                "currency": "EUR",
+                "amount": [
+                    10.00,
+                    25.00,
+                    50.00  
+                ]
+            },
+            "description": "H&M propone un’ampia gamma di prodotti ed è fonte d’ispirazione per i clienti che ogni giorno possono trovare le ultime tendenze di moda per creare il proprio stile personale.",
+            "img_url": "https://eurob2b.amilon.eu/b2bfiles/products/a5fdd16c-77e1-4697-a556-f85d7af13a20/logo/f0e5613f42f3478da9af799e251b537f.png"
+        },
+        {
+            "id": 15,
+            "name": "IKEA",
+            "price": {
+                "currency": "EUR",
+                "amount": [
+                    50.00,
+                    100.00,
+                    200.00 
+                ]
+            },
+            "description": "Nei negozi IKEA trovi tutto per l’arredamento della casa e non solo: divani, librerie, letti, scrivanie, lampade, mobili e accessori per bagno, camera, cucine, soggiorni e camerette. Anche online! Scopri di più su IKEA.it",
+            "img_url": "https://eurob2b.amilon.eu/b2bfiles/retailers/7d6489ca-7e1f-485a-86d2-e90b2a5ed77f/logo/c75d58cf43b2467d8c42086348cabfe9.png"
+        },
+        {
+            "id": 16,
+            "name": "Just Eat",
+            "price": {
+                "currency": "EUR",
+                "amount": [
+                    10.00,
+                    25.00,
+                    50.00
+                ]
+            },
+            "description": "Che sia per un compleanno o solo un piccolo pensiero, acquista una card Just Eat e regala ai tuoi amici e familiari dell’ottimo cibo! Il codice deve essere inserito all'interno del credito dell'account sull'app di Just Eat o sul sito web entro la data di scadenza riportata in questo voucher.",
+            "img_url": "https://eurob2b.amilon.eu/b2bfiles/retailers/345740f1-53ee-489f-b220-ce06730fdb01/logo/7712ed0c7ff346bd8aece4e72836d53e.png"
+        },
+        {
+            "id": 17,
+            "name": "MediaWorld",
+            "price": {
+                "currency": "EUR",
+                "amount": [
+                    10.00,
+                    25.00,
+                    50.00,
+                    100.00
+                ]
+            },
+            "description": "MediaWorld è la prima catena di distribuzione non alimentare italiana con più di 110 punti vendita, collocati prevalentemente nei principali centri commerciali, con una superficie media di vendita di 2.500 mq.",
+            "img_url": "https://eurob2b.amilon.eu/B2BFiles/products/e7984577-c811-477d-a84a-73dd518c6bd7/logo/img_168359d4-7c13-4756-a3d7-2c3f7e624778.png"
+        },
+        {
+            "id": 18,
+            "name": "PlayStation",
+            "price": {
+                "currency": "EUR",
+                "amount": [
+                    50.00
+                ]
+            },
+            "description": "Una carta Playstation Store ti permette di ricaricare il tuo portafoglio Playstation Store senza dover fornire i tuoi dati bancari e personali. Utilizza il tuo credito su Playstation Store scaricando i migliori giochi, estensioni, avatar, temi, film, musica e serie sulla tua console.",
+            "img_url": "https://eurob2b.amilon.eu/b2bfiles/products/e960a89d-7ee8-4839-951b-829276ac2c75/logo/6d375f1e9150404c84fc6b0b2a161e0b.png"
+        },
+        {
+            "id": 19,
+            "name": "Trenitalia",
+            "price": {
+                "currency": "EUR",
+                "amount": [
+                    25.00,
+                    50.00,
+                    100.00
+                ]
+            },
+            "description": "Trenitalia è la compagnia ferroviaria nazionale la cui offerta comprende treni ad alta velocità (Frecciarossa, Frecciargento, Frecciabianca), treni Intercity giorno e Intercity notte e treni regionali.",
+            "img_url": "https://eurob2b.amilon.eu/b2bfiles/retailers/ce118930-3a8b-4c83-b581-7a70145ae209/logo/6ec34dce2e87462088167df5c6cc6f9b.jpg"
+        },
+        {
+            "id": 20,
+            "name": "Xbox Game Pass Ultimate",
+            "price": {
+                "currency": "EUR",
+                "amount": [
+                    13.00,
+                    39.00
+                ]
+            },
+            "description": "La Gift Card Xbox Game Pass Ultimate, gode di tutti i vantaggi di Xbox Live, più di 100 giochi di qualità eccezionale per console e PC, e un abbonamento EA PLAY. La Gift Card ti permette di attivare un abbonamento su Xbox Live per la durata indicata sulla tua e-card (1 mese o 3 mesi).",
+            "img_url": "https://eurob2b.amilon.eu/b2bfiles/products/d95e2607-0474-4eed-abeb-688ee48e87cd/logo/38d24ce6863e4ef893cfdd674c0ac8a9.png"
+        },
+        {
+            "id": 21,
+            "name": "FlixBus",
+            "price": {
+                "currency": "EUR",
+                "amount": [
+                    10.00,
+                    25.00,
+                    50.00,
+                    100.00
+                ]
+            },
+            "description": "Pianifica il tuo prossimo viaggio con la Gift Card FlixBus o usala come opzione regalo! Puoi viaggiare in 29 paesi con oltre 2.000 destinazioni diverse tutto l'anno a prezzi imbattibili. Plan your next trip with the FlixBus Gift Card or use it as a gift option! You can travel to 29 countries and more than 2,000 different destinations all year round at unbeatable prices.",
+            "img_url": "https://eurob2b.amilon.eu/B2BFiles/products/c87e106c-db1e-4748-91c3-9f0258837839/logo/img_3e14a0a3-0647-42fe-b7e5-0f8272e15d14.png"
+        },
+        {
+            "id": 22,
+            "name": "Glovo",
+            "price": {
+                "currency": "EUR",
+                "amount": [
+                    5.00,
+                    10.00,
+                    25.00,
+                    50.00
+                ]
+            },
+            "description": "Glovo è l'unica piattaforma che ti consente di ricevere e inviare qualsiasi cosa all'interno della tua città! Dal tuo piatto preferito ad un mazzo di fiori, dalla spesa ad un prodotto di bellezza, da un giocattolo ad una bibita rinfrescante. In Italia è presente in oltre 300 città, con un servizio che permette la consegna in meno di un'ora di qualsiasi cosa rientri nello zaino giallo. Con i buoni digitali puoi acquistare in piena comodità i tuoi ordini su Glovo in più di 300 città italiane.",
+            "img_url": "https://eurob2b.amilon.eu/b2bfiles/retailers/6e019809-db72-46fa-82be-735c1bb307a3/logo/5ce9d1a6bc014955a03406ca82ac9170.png"
+        },
+        {
+            "id": 23,
+            "name": "Twitch",
+            "price": {
+                "currency": "EUR",
+                "amount": [
+                    25.00,
+                    50.00
+                ]
+            },
+            "description": "Twitch crea community attorno a contenuti interattivi live, sempre diversi e all'avanguardia.",
+            "img_url": "https://eurob2b.amilon.eu/b2bfiles/products/77af9727-037c-4981-8caf-c4b98f70560e/logo/321e89812bdf406794dd7a4721f5b49b.png"
+        },
+        {
+            "id": 24,
+            "name": "Steam",
+            "price": {
+                "currency": "EUR",
+                "amount": [
+                    10.00,
+                    20.00
+                ]
+            },
+            "description": "Grazie ai buoni regalo digitali, adesso puoi aggiungere dei fondi al Portafoglio di Steam di un amico o di un familiare dalla comodità del tuo computer. Accedi a Steam, scegli un utente della tua lista amici e seleziona il valore del buono. Al resto penseremo noi.",
+            "img_url": "https://eurob2b.amilon.eu/b2bfiles/products/44aeb83e-9383-4416-bf1b-cee75fb88c5d/logo/eeac00d5cab642c483263f752e567616.png"
+        }
+    ]
+}
